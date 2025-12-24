@@ -1,7 +1,7 @@
-# NOVAX – CREATOR
+# LUMINARA – CREATOR
 
 ## 1. Rol del creador
-El creador de NOVAX es el iniciador
+El creador de LUMINARA es el iniciador
 del proyecto y responsable de su
 documentación, diseño y evolución.
 
@@ -12,7 +12,7 @@ de los usuarios ni sus wallets.
 Al inicio del proyecto se asigna
 una cantidad inicial de:
 
-1,000,000 NVX
+1,000,000 LNR
 
 Esta asignación tiene como objetivo:
 - Financiar el desarrollo
@@ -22,7 +22,7 @@ Esta asignación tiene como objetivo:
 ## 3. Participación en bloques
 El creador recibe automáticamente
 el 2% de cada bloque válido generado
-en la red NOVAX.
+en la red LUMINARA.
 
 Esta participación se utiliza para:
 - Mantenimiento
@@ -40,4 +40,4 @@ ni acceso privilegiado a fondos.
 El creador no garantiza valor,
 rentabilidad ni beneficios económicos.
 
-NOVAX es un proyecto experimental.
+LUMINARA es un proyecto experimental.
