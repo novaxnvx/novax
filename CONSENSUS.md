@@ -1,55 +1,31 @@
-# luminara CONSENSUS
+# LUMINARA (LNR)
 
-## 1. Qué es el consenso
-El consenso es el acuerdo entre nodos
-sobre qué información es válida.
+LUMINARA es un proyecto tecnológico experimental
+enfocado en el estudio y desarrollo de sistemas
+descentralizados con reglas públicas.
 
-NO utiliza consenso distribuido,
-sin autoridad central.
+## Estado del proyecto
+LUMINARA se encuentra en fase inicial.
+Actualmente cuenta con documentación completa
+y definición de reglas fundamentales.
 
-## 2. Propuesta de bloque
-Un nodo puede proponer un bloque
-cuando cumple las reglas de la red.
+## Componentes
+- Whitepaper
+- Reglas de Wallet
+- Creación de bloques
+- Economía del sistema
+- Roadmap de desarrollo
+- Licencia abierta
+- Rol del creador
 
-El bloque incluye:
-- Transacciones válidas
-- Referencia al bloque anterior
-- Firma del nodo creador
+## Objetivo
+Explorar, aprender y construir un sistema
+funcional de forma progresiva y transparente.
 
-## 3. Verificación
-Los demás nodos verifican:
-- Estructura correcta
-- Firmas válidas
-- Reglas cumplidas
+## Aviso
+LUMINARA no garantiza valor económico.
+El proyecto es experimental y educativo.
 
-Si es correcto, lo aceptan.
-
-## 4. Aceptación
-Un bloque se considera válido
-cuando la mayoría de nodos
-lo acepta sin errores.
-
-Los nodos actualizan su estado.
-
-## 5. Conflictos
-Si aparecen dos bloques distintos:
-- Se prioriza la cadena con más aceptación
-- Los nodos se sincronizan automáticamente
-
-## 6. Rechazo
-Un bloque es rechazado si:
-- Viola reglas
-- Está manipulado
-- Tiene firmas falsas
-
-Los nodos lo ignoran.
-
-## 7. Neutralidad
-El consenso:
-- No favorece a ningún nodo
-- No depende de identidad
-- Se basa solo en reglas
-
-## 8. Evolución
-Las reglas pueden actualizarse
-solo si la red completa lo acepta.
+## Documentación
+Toda la información se encuentra
+disponible públicamente en este repositorio.
