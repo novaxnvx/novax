@@ -1,4 +1,4 @@
-# luminaria CONSENSUS
+# luminara CONSENSUS
 
 ## 1. Qué es el consenso
 El consenso es el acuerdo entre nodos
