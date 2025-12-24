@@ -1,10 +1,10 @@
-# NOVAX CONSENSUS
+# luminaria CONSENSUS
 
 ## 1. Qué es el consenso
 El consenso es el acuerdo entre nodos
 sobre qué información es válida.
 
-NOVAX utiliza consenso distribuido,
+NO utiliza consenso distribuido,
 sin autoridad central.
 
 ## 2. Propuesta de bloque
