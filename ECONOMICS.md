@@ -1,44 +1,42 @@
-# NOVAX – ECONOMICS
+# ECONOMICS – LUMINARA (LNR)
 
-## 1. Suministro total
-El suministro máximo de NOVAX es:
+## 1️⃣ Suministro total
+- Máximo total de LNR: **21,000,000**  
+- Premine para el creador: **1,000,000 LNR**  
+  - Garantiza recursos para desarrollo, infraestructura y soporte.
 
-21,000,000 NVX
+## 2️⃣ Recompensas de minería
+- Cada bloque válido genera **50 LNR**  
+- Distribución del bloque:
+  - **Miner:** 98% → 49 LNR  
+  - **Creador:** 2% → 1 LNR  
 
-No se podrán crear más unidades
-una vez alcanzado este límite.
+- Dificultad de minería ajustable automáticamente para mantener la creación de LNR progresiva y estable.
 
-## 2. Asignación inicial
-Al inicio del proyecto se asigna:
+## 3️⃣ Emisión y distribución
+- Bloques iniciales: fáciles de minar para pruebas  
+- Ajuste de dificultad: según cantidad de mineros y velocidad de bloques  
+- Objetivo: evitar inflación descontrolada y mantener la moneda valiosa y limitada.
 
-- 1,000,000 NVX al creador del proyecto
+## 4️⃣ Transferencias y transacciones
+- Todos los movimientos de LNR quedan **registrados en la blockchain**  
+- Transparencia total: no hay fondos ocultos  
+- Cada minero puede enviar y recibir LNR usando su wallet oficial.
 
-Esta asignación inicial tiene como fin:
-- Financiar desarrollo
-- Cubrir costos técnicos
-- Sostener la infraestructura
+## 5️⃣ Uso del 2% del creador
+- El 2% de cada bloque se destina exclusivamente a:
+  - Mantenimiento de la red  
+  - Desarrollo de apps y wallet  
+  - Soporte técnico y mejoras  
 
-## 3. Distribución pública
-Los 20,000,000 NVX restantes
-se liberan de forma gradual
-mediante el proceso de bloques.
+> Garantiza que el proyecto sea sostenible sin afectar a los usuarios.
 
-## 4. Circulación
-NOVAX entra en circulación cuando:
-- Se valida un bloque
-- Se realizan transferencias
-- Se intercambia entre usuarios
-
-## 5. Uso
-NOVAX puede utilizarse para:
-- Transferencias entre usuarios
-- Participación en la red
-- Uso en aplicaciones futuras
-
-## 6. Transparencia
-Todas las reglas económicas
-son públicas y verificables.
-
-## 7. Estado actual
-NOVAX se encuentra en fase inicial
-sin valor comercial garantizado.
+## 6️⃣ Resumen rápido
+| Concepto               | Valor                |
+|------------------------|--------------------|
+| Suministro máximo      | 21,000,000 LNR      |
+| Premine creador        | 1,000,000 LNR       |
+| Recompensa por bloque  | 50 LNR              |
+| Distribución           | Miner 98%, Creador 2% |
+| Ajuste dificultad      | Automático          |
+| Uso del 2%             | Desarrollo y mantenimiento |
